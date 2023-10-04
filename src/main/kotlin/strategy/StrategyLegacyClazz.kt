@@ -1,9 +1,6 @@
 package strategy
 
 
-fun interface LegacyStrategy {
-    fun getData(): NewInfo
-}
 
 class HardWorkClazz {
 
