@@ -6,7 +6,7 @@ public class EffectsClazz {
 
     }
 
-    private CustomData customData = new CustomData();
+    private CustomData customData = new CustomData("");
 
     public CustomData getData() {
         return customData;
